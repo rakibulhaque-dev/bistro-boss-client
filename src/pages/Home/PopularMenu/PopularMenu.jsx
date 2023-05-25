@@ -1,7 +1,7 @@
 import React from 'react';
 import { useEffect, useState } from "react";
 import SectionTitle from "../../../components/SectionTitle/SectionTitle";
-import MenuItem from '../../Shared/MenuItems/MenuItems';
+import MenuItem from '../../Shared/MenuItem/MenuItem';
 
 
 const PopularMenu = () => {
