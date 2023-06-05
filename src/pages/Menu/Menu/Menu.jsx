@@ -21,6 +21,7 @@ const Menu = () => {
     const offered = menu.filter(item => item.category === 'offered');
     return (
         <div>
+            {/* [Note]: helmet helps to show dynamic page title */}
             <Helmet>
                 <title>Bistro Boss | Menu</title>
             </Helmet>

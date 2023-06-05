@@ -1,4 +1,6 @@
 
+
+// this function is using to show a stylished Section Title where we used and passed usual props 
 const SectionTitle = ({heading, subHeading}) => {
     return (
         <div className="mx-auto my-8 text-center md:w-4/12">
